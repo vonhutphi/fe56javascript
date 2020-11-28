@@ -1,3 +1,3 @@
 function themNguoiDung(){
-    console.log('vonhutphi themNguoiDung');
+    console.log('vonhutphi2 themnguoidung');
 }
